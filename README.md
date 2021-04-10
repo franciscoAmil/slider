@@ -18,7 +18,7 @@
          </center>
 
          <hr>
-         <form action="https://mywebsite.zyrosite.com/page-JrV4IhXrXIM910_oM5rdn">
+         <form action="https://amilsandovalfrancisco.zyrosite.com/">
            <input type="submit" value="Regresar" style='width:100px; height:40px' />
        </form>
           <div class="container">
